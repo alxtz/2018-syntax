@@ -1,4 +1,4 @@
-# New, Fresh Syntax Theme to try in Year 2018 !
+# New, Fresh Syntax Theme to try in Year 2018  👍  📦  🎉 !
 
 # **BOLD** `h1` ~ `h6` Support in Markdown
 ![](https://imgur.com/nJsWri3.jpg)
@@ -26,3 +26,6 @@ They now have 50% brightness !
 # Additional Support for different syntax
 
 ![](https://imgur.com/ljvgjRY.jpg)
+
+# Any Suggestions, create an issue today !
+[![](https://imgur.com/ruXOvMn.jpg)](https://github.com/alxtz/2018-syntax/issues)
